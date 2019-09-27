@@ -2,7 +2,7 @@ Camunda Consulting Examples
 ===========================
 
 This repository contains examples, code snippets and demo applications build by the Camunda Consulting Team
-or contributors. Note: All examples are only tested manually and there is no guarantee that they are actively maintained. If you search for officially maintained examples go to <a href="https://github.com/camunda/camunda-bpm-examples">https://github.com/camunda/camunda-bpm-examples</a>.
+or contributors. Note: All examples are only tested manually and there is no guarantee that they are actively maintained. If you search for officially maintained examples go to <a href="https://github.com/camunda/camunda-bpm-examples">https://github.com/camunda/camunda-bpm-examples</a>.  
 
 <table>
   <tr>
